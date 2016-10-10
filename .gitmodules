@@ -1,0 +1,3 @@
+[submodule "learning-c"]
+	path = learning-c
+	url = git@github.com:jhonatancasale/learning-c.git
