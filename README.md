@@ -1,29 +1,30 @@
-## Aprendendo Linguagens de Programação -Motivação
+## Aprendendo Linguagens de Programação - Motivação
 
 tl;dr
-- [Objetos de estudo](#Objetos-de-estudo)
-- [Proposta de estudo](#Proposta-de-estudo)
-- [Metodologia](#Metodologia)
+- [Objetos de estudo](#objetos-de-estudo)
+- [Proposta de estudo](#proposta-de-estudo)
+- [Metodologia](#metodologia)
 
 
 Aprender a primeira Linguagem de Programação pode ser uma tarefa bastante
 desafiadora, ou porque os professores não se fazem valer, ou porque se esta em
 uma aventura autodidata e o material também não se paga, ou mesmo o próprio
-objeto de estudo, a linguagem, não ajuda muito, o caminho pode ser
+objeto de estudo, a Linguagem, não ajuda muito, o caminho pode ser
 especialmente tortuoso e cansativo. Desnecessário dizer que desistir pode
 parecer um pensamento confortável em certo ponto e pronto, lá se foi o
 entusiasmo e com ele os planos, metas, sonhos e por ai vai.
 
 Para endereçar esse problema e **me** ajudar na minha própria jornada, estou
 criando esse repositório. Que tem como único objetivo servir como hub para meus
-projetos de estudo de Linguagens de Programação. Não me pretendo me tornar
+projetos de estudo de Linguagens de Programação. Não me pretendo tornar
 referência em nenhuma das Linguagens, quero apenas me sentir *confortável* em
-expressar meus pensamentos, ideia, necessidades e expectativas computacionais.
+expressar meus pensamentos, ideias, necessidades e expectativas
+computacionaveis.
 
 E em um segundo momento, este material intenta em servir como uma memória
 externa e compartilhada para que naqueles momentos de dúvida eu volte e
-relembre como se faz isso ou aquilo em determinada aplicação. Dito isso, vamos
-ao disclaimer.
+relembre como se faz isso ou aquilo em determinada Linguagem. Dito isso, vamos
+ao
 
 
 **Disclaimer:** Não tenho a pretensão de escrever um manual completo, muito
@@ -60,14 +61,11 @@ somente isso.
 
 
 ## Proposta de estudo
-
-Quebrar o estudo em 2 etapas
-
 ### Parte I - Sobre a Linguagem
 
 Neste ponto levantar os aspectos da Linguagem no que se refere a forma como a
 mesma lida com:
-- Pode ser **Compilada** ou ser **Interpretada** ou ambos?
+- Poder ser **Compilada**, **Interpretada** ou ambos?
 - Qual é o tipo de **tipagem** que a Linguagem faz uso?
 - É de **propósito** mais geral ou especifico?
 - Qual ou quais **paradigmas** de programação podem ser expressados?
@@ -86,9 +84,8 @@ Neste ponto identificar como a Linguagem implementa as ideias de:
 
 
 ## Metodologia
-
 ### Parte I - Foco na Sintaxe
-Estudar e produzir conteúdo referente ao **como** a linguagem nos permite 
+Estudar e produzir conteúdo referente ao **como** a Linguagem nos permite 
 expressar o pensamento, de forma a gerar o resultado esperado. Ou seja, o foco
 esta mais no código em si, na sintaxe e na forma de construir.
 
@@ -100,10 +97,10 @@ esta mais no código em si, na sintaxe e na forma de construir.
 
 ### Parte III - Desenvolvimento de Toys
 Para ajudar a fixar e fortalecer as conexões neurais para começar a ficar
-_fluente_ na linguagem, sera implementado algumas aplicações exemplo:
+_fluente_ na Linguagem, sera implementado algumas aplicações exemplo:
 - Operações com matrizes: como soma, multiplicação, transposição.
-- Processamento de textos: Obtenção de estatística da escrita e levantamento de
-    métricas dessa escrita.
+- Processamento de textos: Obtenção de estatísticas da escrita e levantamento
+  de métricas dessa escrita.
 - Algoritmos:
   - Ordenação:
     - Bubble Sort
