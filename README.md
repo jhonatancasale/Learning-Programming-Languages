@@ -35,21 +35,21 @@ somente isso.
 
 ## Objetos de estudo
 ### Linguagens
-- C
 - Python
 - R
+- C++
+- Ruby
 - Haskell
-- Prolog
+- Scala
 - Erlang
 - Elixir
 - Io
-- Scala
-- JavaScript
-- C++
-- Ruby
-- Java
 - Clojure
 - Shell-script
+- JavaScript
+- Prolog
+- C
+- Java
 
 ### Tools/Frameworks/OS/...
 - Git
