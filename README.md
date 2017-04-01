@@ -39,6 +39,7 @@ somente isso.
 - R
 - Octave
 - C++
+- Julia
 - Ruby
 - Haskell
 - Scala
