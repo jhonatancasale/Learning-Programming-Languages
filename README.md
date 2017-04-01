@@ -40,18 +40,21 @@ somente isso.
 - Octave
 - C++
 - Julia
-- Ruby
+- Chapel
 - Haskell
 - Scala
 - Erlang
 - Elixir
 - Scheme
+- Ruby
 - Io
 - Clojure
 - Shell-script
 - JavaScript
 - Prolog
 - [C](https://github.com/jhonatancasale/learning-c)
+- GO
+- [Free slot 1]
 
 ### Tools/Frameworks/OS/...
 - Git
