@@ -44,13 +44,13 @@ somente isso.
 - Scala
 - Erlang
 - Elixir
+- Scheme
 - Io
 - Clojure
 - Shell-script
 - JavaScript
 - Prolog
 - [C](https://github.com/jhonatancasale/learning-c)
-- Java
 
 ### Tools/Frameworks/OS/...
 - Git
