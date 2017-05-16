@@ -36,9 +36,9 @@ somente isso.
 ## Objetos de estudo
 ### Linguagens
 - [Python](https://github.com/jhonatancasale/learning-python)
-- R
-- Octave
-- C++
+- [R](https://github.com/jhonatancasale/learning-R)
+- [Octave](https://github.com/jhonatancasale/learning-octave)
+- [C++](https://github.com/jhonatancasale/learning-cpp)
 - Julia
 - Chapel
 - Haskell
@@ -46,7 +46,7 @@ somente isso.
 - Erlang
 - Elixir
 - Scheme
-- Ruby
+- [Ruby](https://github.com/jhonatancasale/learning-ruby)
 - Io
 - Clojure
 - Shell-script
