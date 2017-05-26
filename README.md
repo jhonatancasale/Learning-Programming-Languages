@@ -45,7 +45,7 @@ somente isso.
 - Scala
 - Erlang
 - Elixir
-- Scheme
+- [Scheme](git@github.com:jhonatancasale/learning-scheme.git)
 - [Ruby](https://github.com/jhonatancasale/learning-ruby)
 - Io
 - Clojure
